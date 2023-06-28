@@ -9,3 +9,4 @@ feito com:
 2. **`C# .NET`** - Design da **API**; <input type="checkbox" readonly />
 3. **`Swagger`** - Documentando a **API** <input type="checkbox" readonly />
 4. **`Power Automate`** - **Automação** de algumas coisas <input type="checkbox" readonly />
+> Obs: Descontinuado
